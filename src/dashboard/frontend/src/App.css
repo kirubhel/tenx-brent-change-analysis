@@ -1,0 +1,88 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.card {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  border: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+.card-header {
+  background-color: #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+  font-weight: 600;
+}
+
+.badge {
+  font-size: 0.75em;
+}
+
+.text-muted {
+  color: #6c757d !important;
+}
+
+/* Custom scrollbar for event lists */
+.card-body::-webkit-scrollbar {
+  width: 6px;
+}
+
+.card-body::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 3px;
+}
+
+.card-body::-webkit-scrollbar-thumb {
+  background: #c1c1c1;
+  border-radius: 3px;
+}
+
+.card-body::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .h3 {
+    font-size: 1.5rem;
+  }
+  
+  .h6 {
+    font-size: 0.875rem;
+  }
+}
+
+/* Loading spinner styling */
+.spinner-border {
+  color: #007bff;
+}
+
+/* Chart container styling */
+.recharts-wrapper {
+  margin: 0 auto;
+}
+
+/* Event card styling */
+.border.rounded {
+  border-color: #dee2e6 !important;
+  transition: box-shadow 0.15s ease-in-out;
+}
+
+.border.rounded:hover {
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+/* Summary cards styling */
+.card.text-center .card-body {
+  padding: 1.5rem 1rem;
+}
+
+.card.text-center .h3 {
+  margin-bottom: 0;
+  color: #007bff;
+}
+
+.card.text-center .h6 {
+  margin-bottom: 0;
+  color: #6c757d;
+} 

@@ -1,0 +1,346 @@
+change_point,date,before_mean_price,after_mean_price,price_change_pct,vol_change_pct,correlated_event,event_date,days_diff,event_category,impact_score
+cp_81,1990-08-02,18.08,24.95,37.97,155.88,Iraq Invasion of Kuwait,1990-08-02,0,Conflict,9
+cp_82,1990-08-03,18.11,24.93,37.68,137.52,Iraq Invasion of Kuwait,1990-08-02,1,Conflict,9
+cp_83,1990-08-06,18.14,24.9,37.27,126.59,Iraq Invasion of Kuwait,1990-08-02,4,Conflict,9
+cp_84,1990-08-07,18.18,24.87,36.78,111.61,Iraq Invasion of Kuwait,1990-08-02,5,Conflict,9
+cp_85,1990-08-08,18.22,24.85,36.35,110.85,Iraq Invasion of Kuwait,1990-08-02,6,Conflict,9
+cp_86,1990-08-09,18.26,24.82,35.97,104.19,Iraq Invasion of Kuwait,1990-08-02,7,Conflict,9
+cp_87,1990-08-10,18.29,24.8,35.56,103.59,Iraq Invasion of Kuwait,1990-08-02,8,Conflict,9
+cp_88,1990-08-13,18.33,24.77,35.13,103.44,Iraq Invasion of Kuwait,1990-08-02,11,Conflict,9
+cp_89,1990-08-14,18.37,24.74,34.68,103.27,Iraq Invasion of Kuwait,1990-08-02,12,Conflict,9
+cp_90,1990-08-15,18.41,24.71,34.24,103.08,Iraq Invasion of Kuwait,1990-08-02,13,Conflict,9
+cp_91,1990-08-16,18.45,24.68,33.79,102.57,Iraq Invasion of Kuwait,1990-08-02,14,Conflict,9
+cp_92,1990-08-17,18.49,24.65,33.31,101.7,Iraq Invasion of Kuwait,1990-08-02,15,Conflict,9
+cp_93,1990-08-20,18.53,24.61,32.78,100.22,Iraq Invasion of Kuwait,1990-08-02,18,Conflict,9
+cp_94,1990-08-21,18.58,24.57,32.24,100.1,Iraq Invasion of Kuwait,1990-08-02,19,Conflict,9
+cp_95,1990-08-22,18.63,24.53,31.66,99.62,Iraq Invasion of Kuwait,1990-08-02,20,Conflict,9
+cp_96,1990-08-23,18.68,24.47,31.01,97.31,Iraq Invasion of Kuwait,1990-08-02,21,Conflict,9
+cp_97,1990-08-24,18.74,24.43,30.35,95.4,Iraq Invasion of Kuwait,1990-08-02,22,Conflict,9
+cp_98,1990-08-27,18.8,24.4,29.81,91.51,Iraq Invasion of Kuwait,1990-08-02,25,Conflict,9
+cp_99,1990-08-28,18.84,24.37,29.35,79.89,Iraq Invasion of Kuwait,1990-08-02,26,Conflict,9
+cp_100,1990-08-29,18.88,24.34,28.89,79.89,Iraq Invasion of Kuwait,1990-08-02,27,Conflict,9
+cp_101,1990-08-30,18.92,24.31,28.45,79.96,Iraq Invasion of Kuwait,1990-08-02,28,Conflict,9
+cp_102,1990-08-31,18.96,24.28,28.02,79.93,Iraq Invasion of Kuwait,1990-08-02,29,Conflict,9
+cp_316,1998-03-02,17.89,12.11,-32.29,65.68,OPEC Production Cut Agreement,1998-03-30,28,OPEC,7
+cp_317,1998-03-03,17.86,12.1,-32.24,66.15,OPEC Production Cut Agreement,1998-03-30,27,OPEC,7
+cp_318,1998-03-04,17.84,12.1,-32.18,66.49,OPEC Production Cut Agreement,1998-03-30,26,OPEC,7
+cp_319,1998-03-05,17.81,12.09,-32.13,67.1,OPEC Production Cut Agreement,1998-03-30,25,OPEC,7
+cp_320,1998-03-06,17.79,12.08,-32.08,67.67,OPEC Production Cut Agreement,1998-03-30,24,OPEC,7
+cp_321,1998-03-09,17.76,12.08,-32.0,66.78,OPEC Production Cut Agreement,1998-03-30,21,OPEC,7
+cp_322,1998-03-10,17.73,12.07,-31.91,64.85,OPEC Production Cut Agreement,1998-03-30,20,OPEC,7
+cp_323,1998-03-11,17.7,12.07,-31.81,65.22,OPEC Production Cut Agreement,1998-03-30,19,OPEC,7
+cp_324,1998-03-12,17.68,12.07,-31.71,65.83,OPEC Production Cut Agreement,1998-03-30,18,OPEC,7
+cp_325,1998-03-13,17.65,12.07,-31.61,66.76,OPEC Production Cut Agreement,1998-03-30,17,OPEC,7
+cp_326,1998-03-16,17.63,12.07,-31.5,66.67,OPEC Production Cut Agreement,1998-03-30,14,OPEC,7
+cp_327,1998-03-17,17.6,12.08,-31.34,65.71,OPEC Production Cut Agreement,1998-03-30,13,OPEC,7
+cp_328,1998-03-18,17.56,12.09,-31.19,59.82,OPEC Production Cut Agreement,1998-03-30,12,OPEC,7
+cp_329,1998-03-19,17.54,12.09,-31.06,52.06,OPEC Production Cut Agreement,1998-03-30,11,OPEC,7
+cp_330,1998-03-20,17.51,12.09,-30.93,52.6,OPEC Production Cut Agreement,1998-03-30,10,OPEC,7
+cp_454,2001-09-24,27.19,22.95,-15.59,10.75,9/11 Terrorist Attacks,2001-09-11,13,Political,8
+cp_455,2001-09-25,27.16,22.99,-15.37,-1.31,US Invasion of Afghanistan,2001-10-07,12,Conflict,6
+cp_456,2001-09-26,27.12,23.02,-15.13,-0.96,US Invasion of Afghanistan,2001-10-07,11,Conflict,6
+cp_457,2001-10-03,26.95,23.18,-14.01,-2.1,US Invasion of Afghanistan,2001-10-07,4,Conflict,6
+cp_458,2001-10-04,26.91,23.21,-13.76,-2.08,US Invasion of Afghanistan,2001-10-07,3,Conflict,6
+cp_459,2001-10-08,26.82,23.27,-13.25,-1.18,US Invasion of Afghanistan,2001-10-07,1,Conflict,6
+cp_460,2001-10-09,26.77,23.3,-12.97,-1.37,US Invasion of Afghanistan,2001-10-07,2,Conflict,6
+cp_461,2001-10-12,26.65,23.39,-12.25,-0.85,US Invasion of Afghanistan,2001-10-07,5,Conflict,6
+cp_462,2001-10-15,26.61,23.42,-12.0,-1.08,US Invasion of Afghanistan,2001-10-07,8,Conflict,6
+cp_463,2001-10-16,26.57,23.45,-11.76,-0.7,US Invasion of Afghanistan,2001-10-07,9,Conflict,6
+cp_464,2001-10-17,26.53,23.48,-11.48,-1.19,US Invasion of Afghanistan,2001-10-07,10,Conflict,6
+cp_465,2001-10-18,26.48,23.52,-11.18,-1.66,US Invasion of Afghanistan,2001-10-07,11,Conflict,6
+cp_466,2001-10-19,26.43,23.56,-10.89,-1.93,US Invasion of Afghanistan,2001-10-07,12,Conflict,6
+cp_467,2001-10-31,26.1,23.76,-8.94,-1.37,US Invasion of Afghanistan,2001-10-07,24,Conflict,6
+cp_468,2001-11-01,26.05,23.79,-8.68,-1.65,US Invasion of Afghanistan,2001-10-07,25,Conflict,6
+cp_469,2001-11-02,26.0,23.81,-8.41,-2.05,US Invasion of Afghanistan,2001-10-07,26,Conflict,6
+cp_470,2001-11-05,25.95,23.84,-8.12,-2.34,US Invasion of Afghanistan,2001-10-07,29,Conflict,6
+cp_471,2001-11-06,25.89,23.87,-7.83,-2.29,US Invasion of Afghanistan,2001-10-07,30,Conflict,6
+cp_510,2003-02-18,26.6,28.71,7.92,13.99,Iraq War Begins,2003-03-20,30,Conflict,8
+cp_511,2003-02-19,26.65,28.69,7.66,14.76,Iraq War Begins,2003-03-20,29,Conflict,8
+cp_512,2003-02-20,26.7,28.68,7.42,14.71,Iraq War Begins,2003-03-20,28,Conflict,8
+cp_513,2003-02-21,26.75,28.68,7.18,15.11,Iraq War Begins,2003-03-20,27,Conflict,8
+cp_514,2003-02-24,26.81,28.67,6.95,14.97,Iraq War Begins,2003-03-20,24,Conflict,8
+cp_515,2003-02-25,26.86,28.66,6.71,15.58,Iraq War Begins,2003-03-20,23,Conflict,8
+cp_516,2003-02-26,26.91,28.65,6.48,15.56,Iraq War Begins,2003-03-20,22,Conflict,8
+cp_517,2003-02-27,26.95,28.64,6.26,16.82,Iraq War Begins,2003-03-20,21,Conflict,8
+cp_518,2003-02-28,27.0,28.63,6.03,16.81,Iraq War Begins,2003-03-20,20,Conflict,8
+cp_519,2003-03-03,27.05,28.62,5.82,17.34,Iraq War Begins,2003-03-20,17,Conflict,8
+cp_520,2003-03-04,27.09,28.61,5.61,16.83,Iraq War Begins,2003-03-20,16,Conflict,8
+cp_521,2003-03-05,27.14,28.61,5.41,17.7,Iraq War Begins,2003-03-20,15,Conflict,8
+cp_522,2003-03-06,27.18,28.6,5.2,18.27,Iraq War Begins,2003-03-20,14,Conflict,8
+cp_523,2003-03-07,27.23,28.59,5.01,19.0,Iraq War Begins,2003-03-20,13,Conflict,8
+cp_524,2003-03-10,27.28,28.59,4.81,19.26,Iraq War Begins,2003-03-20,10,Conflict,8
+cp_525,2003-03-11,27.32,28.59,4.64,20.01,Iraq War Begins,2003-03-20,9,Conflict,8
+cp_526,2003-03-12,27.36,28.58,4.47,19.83,Iraq War Begins,2003-03-20,8,Conflict,8
+cp_527,2003-03-13,27.4,28.58,4.3,19.84,Iraq War Begins,2003-03-20,7,Conflict,8
+cp_660,2005-08-01,47.91,63.55,32.65,-17.49,Hurricane Katrina,2005-08-29,28,Natural Disaster,8
+cp_661,2005-08-02,47.98,63.61,32.56,-17.33,Hurricane Katrina,2005-08-29,27,Natural Disaster,8
+cp_662,2005-08-03,48.05,63.67,32.49,-17.16,Hurricane Katrina,2005-08-29,26,Natural Disaster,8
+cp_663,2005-08-04,48.12,63.72,32.42,-16.85,Hurricane Katrina,2005-08-29,25,Natural Disaster,8
+cp_664,2005-08-05,48.18,63.78,32.36,-16.77,Hurricane Katrina,2005-08-29,24,Natural Disaster,8
+cp_665,2005-08-08,48.25,63.83,32.29,-16.95,Hurricane Katrina,2005-08-29,21,Natural Disaster,8
+cp_666,2005-08-09,48.32,63.89,32.22,-17.08,Hurricane Katrina,2005-08-29,20,Natural Disaster,8
+cp_667,2005-08-10,48.4,63.94,32.12,-17.03,Hurricane Katrina,2005-08-29,19,Natural Disaster,8
+cp_668,2005-08-11,48.47,63.98,32.0,-17.49,Hurricane Katrina,2005-08-29,18,Natural Disaster,8
+cp_669,2005-08-12,48.55,64.02,31.86,-17.82,Hurricane Katrina,2005-08-29,17,Natural Disaster,8
+cp_670,2005-08-15,48.64,64.07,31.71,-17.77,Hurricane Katrina,2005-08-29,14,Natural Disaster,8
+cp_671,2005-08-16,48.74,64.12,31.56,-17.72,Hurricane Katrina,2005-08-29,13,Natural Disaster,8
+cp_672,2005-08-17,48.83,64.17,31.42,-17.65,Hurricane Katrina,2005-08-29,12,Natural Disaster,8
+cp_673,2005-08-19,49.0,64.26,31.14,-18.37,Hurricane Katrina,2005-08-29,10,Natural Disaster,8
+cp_674,2005-08-22,49.09,64.29,30.95,-19.08,Hurricane Katrina,2005-08-29,7,Natural Disaster,8
+cp_675,2005-08-23,49.2,64.32,30.74,-19.03,Hurricane Katrina,2005-08-29,6,Natural Disaster,8
+cp_676,2005-08-24,49.29,64.34,30.53,-18.39,Hurricane Katrina,2005-08-29,5,Natural Disaster,8
+cp_677,2005-08-25,49.38,64.36,30.33,-18.03,Hurricane Katrina,2005-08-29,4,Natural Disaster,8
+cp_678,2005-08-26,49.48,64.39,30.12,-17.6,Hurricane Katrina,2005-08-29,3,Natural Disaster,8
+cp_679,2005-08-29,49.59,64.42,29.91,-17.73,Hurricane Katrina,2005-08-29,0,Natural Disaster,8
+cp_680,2005-08-30,49.68,64.44,29.69,-18.01,Hurricane Katrina,2005-08-29,1,Natural Disaster,8
+cp_681,2005-08-31,49.79,64.45,29.46,-18.14,Hurricane Katrina,2005-08-29,2,Natural Disaster,8
+cp_682,2005-09-01,49.89,64.48,29.24,-17.63,Hurricane Katrina,2005-08-29,3,Natural Disaster,8
+cp_683,2005-09-02,49.99,64.49,29.01,-16.74,Hurricane Katrina,2005-08-29,4,Natural Disaster,8
+cp_701,2006-06-29,62.37,63.98,2.59,-1.66,Israel-Hezbollah War,2006-07-12,13,Conflict,6
+cp_702,2006-06-30,62.43,63.98,2.49,-1.76,Israel-Hezbollah War,2006-07-12,12,Conflict,6
+cp_703,2006-07-03,62.49,63.98,2.38,-1.65,Israel-Hezbollah War,2006-07-12,9,Conflict,6
+cp_704,2006-07-04,62.55,63.98,2.29,-1.26,Israel-Hezbollah War,2006-07-12,8,Conflict,6
+cp_705,2006-07-07,62.73,64.02,2.05,1.66,Israel-Hezbollah War,2006-07-12,5,Conflict,6
+cp_706,2006-07-13,62.99,64.09,1.74,1.01,Israel-Hezbollah War,2006-07-12,1,Conflict,6
+cp_707,2006-07-14,63.07,64.09,1.63,0.5,Israel-Hezbollah War,2006-07-12,2,Conflict,6
+cp_708,2006-07-17,63.15,64.1,1.52,0.5,Israel-Hezbollah War,2006-07-12,5,Conflict,6
+cp_709,2006-07-18,63.22,64.12,1.42,0.71,Israel-Hezbollah War,2006-07-12,6,Conflict,6
+cp_710,2006-07-27,63.61,64.23,0.99,-1.31,Israel-Hezbollah War,2006-07-12,15,Conflict,6
+cp_711,2006-08-01,63.78,64.25,0.75,-2.18,Israel-Hezbollah War,2006-07-12,20,Conflict,6
+cp_712,2006-08-02,63.83,64.25,0.65,-2.03,Israel-Hezbollah War,2006-07-12,21,Conflict,6
+cp_713,2006-08-03,63.89,64.24,0.56,-2.26,Israel-Hezbollah War,2006-07-12,22,Conflict,6
+cp_714,2006-08-04,63.94,64.23,0.45,-1.61,Israel-Hezbollah War,2006-07-12,23,Conflict,6
+cp_715,2006-08-07,63.98,64.2,0.34,-0.65,Israel-Hezbollah War,2006-07-12,26,Conflict,6
+cp_716,2006-08-08,64.02,64.17,0.23,-0.57,Israel-Hezbollah War,2006-07-12,27,Conflict,6
+cp_717,2006-08-09,64.07,64.14,0.11,-0.49,Israel-Hezbollah War,2006-07-12,28,Conflict,6
+cp_838,2008-10-15,105.58,56.26,-46.72,66.96,Lehman Brothers Collapse,2008-09-15,30,Economic,9
+cp_861,2008-11-17,103.02,57.8,-43.89,40.65,OPEC Production Cut,2008-12-16,29,OPEC,7
+cp_862,2008-11-18,102.87,57.92,-43.69,40.42,OPEC Production Cut,2008-12-16,28,OPEC,7
+cp_863,2008-11-19,102.7,58.03,-43.49,40.3,OPEC Production Cut,2008-12-16,27,OPEC,7
+cp_864,2008-11-20,102.52,58.15,-43.28,39.62,OPEC Production Cut,2008-12-16,26,OPEC,7
+cp_865,2008-11-21,102.33,58.28,-43.05,39.01,OPEC Production Cut,2008-12-16,25,OPEC,7
+cp_866,2008-11-24,102.13,58.39,-42.83,37.36,OPEC Production Cut,2008-12-16,22,OPEC,7
+cp_867,2008-11-25,101.95,58.5,-42.62,33.25,OPEC Production Cut,2008-12-16,21,OPEC,7
+cp_868,2008-11-26,101.76,58.61,-42.41,32.46,OPEC Production Cut,2008-12-16,20,OPEC,7
+cp_869,2008-11-28,101.59,58.73,-42.19,31.75,OPEC Production Cut,2008-12-16,18,OPEC,7
+cp_870,2008-12-01,101.42,58.85,-41.97,31.49,OPEC Production Cut,2008-12-16,15,OPEC,7
+cp_871,2008-12-02,101.24,58.97,-41.75,31.25,OPEC Production Cut,2008-12-16,14,OPEC,7
+cp_872,2008-12-03,101.07,59.11,-41.52,31.05,OPEC Production Cut,2008-12-16,13,OPEC,7
+cp_873,2008-12-04,100.89,59.24,-41.28,30.8,OPEC Production Cut,2008-12-16,12,OPEC,7
+cp_874,2008-12-05,100.71,59.4,-41.02,25.07,OPEC Production Cut,2008-12-16,11,OPEC,7
+cp_875,2008-12-08,100.5,59.53,-40.76,15.88,OPEC Production Cut,2008-12-16,8,OPEC,7
+cp_876,2008-12-09,100.31,59.67,-40.51,14.36,OPEC Production Cut,2008-12-16,7,OPEC,7
+cp_877,2008-12-10,100.11,59.79,-40.27,14.64,OPEC Production Cut,2008-12-16,6,OPEC,7
+cp_878,2008-12-11,99.92,59.9,-40.05,12.73,OPEC Production Cut,2008-12-16,5,OPEC,7
+cp_879,2008-12-12,99.75,60.01,-39.83,9.94,OPEC Production Cut,2008-12-16,4,OPEC,7
+cp_880,2008-12-15,99.55,60.12,-39.61,9.64,OPEC Production Cut,2008-12-16,1,OPEC,7
+cp_881,2008-12-16,99.36,60.24,-39.37,7.86,OPEC Production Cut,2008-12-16,0,OPEC,7
+cp_882,2008-12-17,99.17,60.36,-39.13,7.04,OPEC Production Cut,2008-12-16,1,OPEC,7
+cp_883,2008-12-18,98.97,60.49,-38.89,6.74,OPEC Production Cut,2008-12-16,2,OPEC,7
+cp_884,2008-12-19,98.77,60.62,-38.63,6.39,OPEC Production Cut,2008-12-16,3,OPEC,7
+cp_885,2008-12-22,98.57,60.75,-38.37,6.11,OPEC Production Cut,2008-12-16,6,OPEC,7
+cp_886,2008-12-23,98.36,60.9,-38.08,4.78,OPEC Production Cut,2008-12-16,7,OPEC,7
+cp_887,2008-12-24,98.14,61.06,-37.78,3.55,OPEC Production Cut,2008-12-16,8,OPEC,7
+cp_888,2008-12-26,97.91,61.23,-37.46,3.42,OPEC Production Cut,2008-12-16,10,OPEC,7
+cp_889,2008-12-29,97.66,61.4,-37.13,3.82,OPEC Production Cut,2008-12-16,13,OPEC,7
+cp_890,2008-12-30,97.42,61.57,-36.8,3.64,OPEC Production Cut,2008-12-16,14,OPEC,7
+cp_891,2008-12-31,97.19,61.74,-36.47,3.43,OPEC Production Cut,2008-12-16,15,OPEC,7
+cp_932,2011-01-18,80.28,111.91,39.41,-1.63,Arab Spring Begins,2011-02-15,28,Political,7
+cp_933,2011-01-19,80.37,111.95,39.3,-1.33,Arab Spring Begins,2011-02-15,27,Political,7
+cp_934,2011-01-20,80.46,112.0,39.2,-1.65,Arab Spring Begins,2011-02-15,26,Political,7
+cp_935,2011-01-21,80.55,112.06,39.12,-1.77,Arab Spring Begins,2011-02-15,25,Political,7
+cp_936,2011-01-24,80.64,112.11,39.02,-1.54,Arab Spring Begins,2011-02-15,22,Political,7
+cp_937,2011-01-25,80.74,112.16,38.92,-1.5,Arab Spring Begins,2011-02-15,21,Political,7
+cp_938,2011-01-26,80.84,112.23,38.83,-1.39,Arab Spring Begins,2011-02-15,20,Political,7
+cp_939,2011-01-27,80.93,112.28,38.74,-1.38,Arab Spring Begins,2011-02-15,19,Political,7
+cp_940,2011-01-28,81.03,112.35,38.64,-0.72,Arab Spring Begins,2011-02-15,18,Political,7
+cp_941,2011-01-31,81.13,112.41,38.55,-0.54,Arab Spring Begins,2011-02-15,15,Political,7
+cp_942,2011-02-01,81.24,112.48,38.44,-0.78,Arab Spring Begins,2011-02-15,14,Political,7
+cp_943,2011-02-02,81.35,112.54,38.34,-0.32,Arab Spring Begins,2011-02-15,13,Political,7
+cp_944,2011-02-03,81.45,112.61,38.25,0.04,Arab Spring Begins,2011-02-15,12,Political,7
+cp_945,2011-02-04,81.57,112.68,38.14,2.22,Arab Spring Begins,2011-02-15,11,Political,7
+cp_946,2011-02-07,81.69,112.76,38.04,2.07,Arab Spring Begins,2011-02-15,8,Political,7
+cp_947,2011-02-08,81.8,112.83,37.93,2.12,Arab Spring Begins,2011-02-15,7,Political,7
+cp_948,2011-02-09,81.92,112.91,37.83,2.29,Arab Spring Begins,2011-02-15,6,Political,7
+cp_949,2011-02-10,82.04,112.99,37.73,2.26,Arab Spring Begins,2011-02-15,5,Political,7
+cp_950,2011-02-11,82.15,113.08,37.64,2.66,Arab Spring Begins,2011-02-15,4,Political,7
+cp_951,2011-02-14,82.26,113.15,37.54,2.1,Arab Spring Begins,2011-02-15,1,Political,7
+cp_952,2011-02-15,82.38,113.23,37.45,3.0,Arab Spring Begins,2011-02-15,0,Political,7
+cp_953,2011-02-16,82.48,113.31,37.38,3.04,Arab Spring Begins,2011-02-15,1,Political,7
+cp_954,2011-02-17,82.59,113.4,37.31,3.34,Arab Spring Begins,2011-02-15,2,Political,7
+cp_955,2011-02-18,82.69,113.49,37.25,3.3,Arab Spring Begins,2011-02-15,3,Political,7
+cp_956,2011-02-22,82.79,113.56,37.16,2.2,Arab Spring Begins,2011-02-15,7,Political,7
+cp_957,2011-02-23,82.91,113.61,37.02,0.66,Arab Spring Begins,2011-02-15,8,Political,7
+cp_958,2011-02-24,83.04,113.66,36.87,-0.13,Arab Spring Begins,2011-02-15,9,Political,7
+cp_959,2011-02-25,83.2,113.72,36.68,-0.42,Arab Spring Begins,2011-02-15,10,Political,7
+cp_960,2011-02-28,83.34,113.77,36.52,-0.38,Arab Spring Begins,2011-02-15,13,Political,7
+cp_961,2011-03-01,83.48,113.82,36.34,-0.32,Arab Spring Begins,2011-02-15,14,Political,7
+cp_962,2011-03-02,83.63,113.85,36.15,-0.78,Arab Spring Begins,2011-02-15,15,Political,7
+cp_963,2011-03-03,83.78,113.91,35.96,-1.27,Arab Spring Begins,2011-02-15,16,Political,7
+cp_964,2011-03-04,83.92,113.96,35.79,-1.6,Libya Civil War,2011-03-19,15,Conflict,8
+cp_965,2011-03-07,84.07,114.0,35.6,-1.51,Libya Civil War,2011-03-19,12,Conflict,8
+cp_966,2011-03-08,84.22,114.06,35.44,-2.44,Libya Civil War,2011-03-19,11,Conflict,8
+cp_967,2011-03-09,84.35,114.11,35.28,-3.72,Libya Civil War,2011-03-19,10,Conflict,8
+cp_968,2011-03-10,84.49,114.15,35.1,-3.46,Libya Civil War,2011-03-19,9,Conflict,8
+cp_969,2011-03-11,84.63,114.19,34.93,-3.36,Libya Civil War,2011-03-19,8,Conflict,8
+cp_970,2011-03-14,84.76,114.24,34.78,-3.41,Libya Civil War,2011-03-19,5,Conflict,8
+cp_971,2011-03-15,84.91,114.29,34.61,-3.0,Libya Civil War,2011-03-19,4,Conflict,8
+cp_972,2011-03-16,85.03,114.35,34.47,-2.67,Libya Civil War,2011-03-19,3,Conflict,8
+cp_973,2011-03-17,85.15,114.38,34.32,-3.06,Libya Civil War,2011-03-19,2,Conflict,8
+cp_974,2011-03-18,85.29,114.42,34.16,-3.2,Libya Civil War,2011-03-19,1,Conflict,8
+cp_975,2011-03-21,85.43,114.47,33.99,-2.88,Libya Civil War,2011-03-19,2,Conflict,8
+cp_976,2011-03-22,85.58,114.5,33.8,-2.89,Libya Civil War,2011-03-19,3,Conflict,8
+cp_977,2011-03-23,85.72,114.54,33.62,-2.78,Libya Civil War,2011-03-19,4,Conflict,8
+cp_978,2011-03-24,85.87,114.57,33.42,-2.55,Libya Civil War,2011-03-19,5,Conflict,8
+cp_979,2011-03-25,86.02,114.6,33.23,-2.54,Libya Civil War,2011-03-19,6,Conflict,8
+cp_980,2011-03-28,86.17,114.64,33.04,-2.44,Libya Civil War,2011-03-19,9,Conflict,8
+cp_981,2011-03-29,86.31,114.66,32.85,-2.04,Libya Civil War,2011-03-19,10,Conflict,8
+cp_982,2011-03-30,86.45,114.7,32.67,-2.01,Libya Civil War,2011-03-19,11,Conflict,8
+cp_983,2011-03-31,86.59,114.72,32.48,-1.95,Libya Civil War,2011-03-19,12,Conflict,8
+cp_984,2011-04-01,86.73,114.72,32.28,-1.63,Libya Civil War,2011-03-19,13,Conflict,8
+cp_985,2011-04-04,86.86,114.73,32.08,-1.55,Libya Civil War,2011-03-19,16,Conflict,8
+cp_986,2011-04-05,87.0,114.72,31.86,-1.97,Libya Civil War,2011-03-19,17,Conflict,8
+cp_987,2011-04-06,87.15,114.7,31.6,-1.97,Libya Civil War,2011-03-19,18,Conflict,8
+cp_988,2011-04-07,87.31,114.68,31.34,-1.57,Libya Civil War,2011-03-19,19,Conflict,8
+cp_989,2011-04-08,87.47,114.63,31.05,-1.84,Libya Civil War,2011-03-19,20,Conflict,8
+cp_990,2011-04-11,87.64,114.59,30.76,-1.61,Osama bin Laden Killed,2011-05-02,21,Political,5
+cp_991,2011-04-12,87.81,114.58,30.49,-2.37,Osama bin Laden Killed,2011-05-02,20,Political,5
+cp_992,2011-04-13,87.95,114.56,30.26,-3.1,Osama bin Laden Killed,2011-05-02,19,Political,5
+cp_993,2011-04-14,88.09,114.54,30.02,-3.02,Osama bin Laden Killed,2011-05-02,18,Political,5
+cp_994,2011-04-15,88.24,114.51,29.77,-2.76,Osama bin Laden Killed,2011-05-02,17,Political,5
+cp_995,2011-04-18,88.41,114.5,29.52,-2.77,Osama bin Laden Killed,2011-05-02,14,Political,5
+cp_996,2011-04-19,88.55,114.49,29.29,-2.99,Osama bin Laden Killed,2011-05-02,13,Political,5
+cp_997,2011-04-20,88.7,114.47,29.05,-3.36,Osama bin Laden Killed,2011-05-02,12,Political,5
+cp_998,2011-04-21,88.86,114.45,28.81,-3.65,Osama bin Laden Killed,2011-05-02,11,Political,5
+cp_999,2011-04-26,89.01,114.43,28.56,-3.36,Osama bin Laden Killed,2011-05-02,6,Political,5
+cp_1000,2011-04-27,89.16,114.39,28.3,-3.23,Osama bin Laden Killed,2011-05-02,5,Political,5
+cp_1001,2011-04-28,89.31,114.33,28.01,-2.29,Osama bin Laden Killed,2011-05-02,4,Political,5
+cp_1002,2011-05-02,89.48,114.27,27.7,-2.19,Osama bin Laden Killed,2011-05-02,0,Political,5
+cp_1003,2011-05-03,89.64,114.22,27.42,-1.97,Osama bin Laden Killed,2011-05-02,1,Political,5
+cp_1018,2012-06-01,113.93,107.97,-5.23,-12.04,EU Iran Oil Embargo,2012-07-01,30,Economic,6
+cp_1019,2012-06-04,113.87,107.99,-5.16,-13.73,EU Iran Oil Embargo,2012-07-01,27,Economic,6
+cp_1020,2012-06-05,113.8,108.01,-5.09,-13.65,EU Iran Oil Embargo,2012-07-01,26,Economic,6
+cp_1021,2012-06-06,113.73,108.02,-5.02,-14.27,EU Iran Oil Embargo,2012-07-01,25,Economic,6
+cp_1022,2012-06-07,113.67,108.04,-4.96,-14.49,EU Iran Oil Embargo,2012-07-01,24,Economic,6
+cp_1023,2012-06-08,113.61,108.06,-4.88,-15.1,EU Iran Oil Embargo,2012-07-01,23,Economic,6
+cp_1024,2012-06-11,113.54,108.07,-4.82,-14.94,EU Iran Oil Embargo,2012-07-01,20,Economic,6
+cp_1025,2012-06-12,113.48,108.1,-4.74,-15.16,EU Iran Oil Embargo,2012-07-01,19,Economic,6
+cp_1026,2012-06-13,113.4,108.12,-4.65,-15.46,EU Iran Oil Embargo,2012-07-01,18,Economic,6
+cp_1027,2012-06-14,113.33,108.16,-4.56,-15.3,EU Iran Oil Embargo,2012-07-01,17,Economic,6
+cp_1028,2012-06-15,113.24,108.19,-4.46,-15.07,EU Iran Oil Embargo,2012-07-01,16,Economic,6
+cp_1029,2012-06-18,113.15,108.23,-4.35,-15.33,EU Iran Oil Embargo,2012-07-01,13,Economic,6
+cp_1030,2012-06-19,113.06,108.27,-4.23,-15.51,EU Iran Oil Embargo,2012-07-01,12,Economic,6
+cp_1031,2012-06-20,112.95,108.31,-4.11,-14.93,EU Iran Oil Embargo,2012-07-01,11,Economic,6
+cp_1032,2012-06-21,112.85,108.35,-3.98,-16.66,EU Iran Oil Embargo,2012-07-01,10,Economic,6
+cp_1033,2012-06-22,112.75,108.4,-3.86,-16.53,EU Iran Oil Embargo,2012-07-01,9,Economic,6
+cp_1034,2012-06-25,112.65,108.45,-3.73,-16.32,EU Iran Oil Embargo,2012-07-01,6,Economic,6
+cp_1035,2012-06-26,112.55,108.49,-3.61,-16.47,EU Iran Oil Embargo,2012-07-01,5,Economic,6
+cp_1036,2012-06-27,112.46,108.53,-3.49,-16.55,EU Iran Oil Embargo,2012-07-01,4,Economic,6
+cp_1037,2012-06-28,112.38,108.58,-3.39,-16.97,EU Iran Oil Embargo,2012-07-01,3,Economic,6
+cp_1038,2012-06-29,112.29,108.61,-3.28,-17.92,EU Iran Oil Embargo,2012-07-01,2,Economic,6
+cp_1039,2012-07-02,112.23,108.65,-3.2,-17.34,EU Iran Oil Embargo,2012-07-01,1,Economic,6
+cp_1040,2014-06-18,108.97,75.42,-30.79,106.4,OPEC Maintains Production,2014-06-20,2,OPEC,8
+cp_1041,2014-06-19,109.01,75.21,-31.01,109.92,OPEC Maintains Production,2014-06-20,1,OPEC,8
+cp_1042,2014-06-20,109.07,74.99,-31.25,113.27,OPEC Maintains Production,2014-06-20,0,OPEC,8
+cp_1102,2014-10-28,105.61,57.63,-45.43,178.19,OPEC Production Decision,2014-11-27,30,OPEC,9
+cp_1103,2014-10-29,105.52,57.47,-45.54,178.38,OPEC Production Decision,2014-11-27,29,OPEC,9
+cp_1104,2014-10-30,105.44,57.32,-45.64,178.65,OPEC Production Decision,2014-11-27,28,OPEC,9
+cp_1105,2014-10-31,105.35,57.17,-45.73,178.62,OPEC Production Decision,2014-11-27,27,OPEC,9
+cp_1106,2014-11-03,105.27,57.03,-45.83,177.46,OPEC Production Decision,2014-11-27,24,OPEC,9
+cp_1107,2014-11-04,105.19,56.89,-45.92,176.04,OPEC Production Decision,2014-11-27,23,OPEC,9
+cp_1108,2014-11-05,105.1,56.75,-46.0,169.34,OPEC Production Decision,2014-11-27,22,OPEC,9
+cp_1109,2014-11-06,105.02,56.61,-46.09,172.01,OPEC Production Decision,2014-11-27,21,OPEC,9
+cp_1110,2014-11-07,104.93,56.47,-46.18,172.35,OPEC Production Decision,2014-11-27,20,OPEC,9
+cp_1111,2014-11-10,104.84,56.32,-46.28,172.83,OPEC Production Decision,2014-11-27,17,OPEC,9
+cp_1112,2014-11-11,104.75,56.18,-46.36,172.76,OPEC Production Decision,2014-11-27,16,OPEC,9
+cp_1113,2014-11-12,104.65,56.05,-46.44,170.26,OPEC Production Decision,2014-11-27,15,OPEC,9
+cp_1114,2014-11-13,104.54,55.92,-46.51,171.23,OPEC Production Decision,2014-11-27,14,OPEC,9
+cp_1115,2014-11-14,104.41,55.79,-46.57,164.73,OPEC Production Decision,2014-11-27,13,OPEC,9
+cp_1116,2014-11-17,104.29,55.65,-46.64,168.64,OPEC Production Decision,2014-11-27,10,OPEC,9
+cp_1117,2014-11-18,104.17,55.5,-46.72,169.62,OPEC Production Decision,2014-11-27,9,OPEC,9
+cp_1118,2014-11-19,104.04,55.36,-46.79,169.99,OPEC Production Decision,2014-11-27,8,OPEC,9
+cp_1119,2014-11-20,103.91,55.22,-46.86,171.58,OPEC Production Decision,2014-11-27,7,OPEC,9
+cp_1120,2014-11-21,103.78,55.07,-46.93,172.56,OPEC Production Decision,2014-11-27,6,OPEC,9
+cp_1121,2014-11-24,103.65,54.92,-47.01,169.79,OPEC Production Decision,2014-11-27,3,OPEC,9
+cp_1122,2014-11-25,103.52,54.79,-47.08,170.75,OPEC Production Decision,2014-11-27,2,OPEC,9
+cp_1123,2014-11-26,103.39,54.66,-47.13,167.73,OPEC Production Decision,2014-11-27,1,OPEC,9
+cp_1124,2014-11-28,103.26,54.55,-47.17,163.75,OPEC Production Decision,2014-11-27,1,OPEC,9
+cp_1125,2014-12-01,103.1,54.44,-47.2,138.19,OPEC Production Decision,2014-11-27,4,OPEC,9
+cp_1126,2014-12-02,102.93,54.33,-47.22,138.62,OPEC Production Decision,2014-11-27,5,OPEC,9
+cp_1127,2014-12-03,102.77,54.22,-47.24,138.66,OPEC Production Decision,2014-11-27,6,OPEC,9
+cp_1128,2014-12-04,102.6,54.12,-47.25,138.17,OPEC Production Decision,2014-11-27,7,OPEC,9
+cp_1129,2014-12-05,102.43,54.02,-47.26,136.58,OPEC Production Decision,2014-11-27,8,OPEC,9
+cp_1130,2014-12-08,102.26,53.92,-47.27,136.15,OPEC Production Decision,2014-11-27,11,OPEC,9
+cp_1131,2014-12-09,102.09,53.83,-47.28,132.01,OPEC Production Decision,2014-11-27,12,OPEC,9
+cp_1132,2014-12-10,101.92,53.73,-47.28,131.88,OPEC Production Decision,2014-11-27,13,OPEC,9
+cp_1133,2014-12-11,101.74,53.64,-47.28,125.55,OPEC Production Decision,2014-11-27,14,OPEC,9
+cp_1134,2014-12-12,101.56,53.55,-47.28,124.92,OPEC Production Decision,2014-11-27,15,OPEC,9
+cp_1135,2014-12-15,101.37,53.46,-47.26,123.66,OPEC Production Decision,2014-11-27,18,OPEC,9
+cp_1136,2014-12-16,101.18,53.36,-47.26,125.01,OPEC Production Decision,2014-11-27,19,OPEC,9
+cp_1137,2014-12-17,100.98,53.27,-47.25,124.86,OPEC Production Decision,2014-11-27,20,OPEC,9
+cp_1138,2014-12-18,100.78,53.19,-47.22,126.03,OPEC Production Decision,2014-11-27,21,OPEC,9
+cp_1139,2014-12-19,100.57,53.1,-47.2,126.22,OPEC Production Decision,2014-11-27,22,OPEC,9
+cp_1140,2014-12-22,100.36,53.01,-47.18,126.34,OPEC Production Decision,2014-11-27,25,OPEC,9
+cp_1141,2014-12-23,100.15,52.92,-47.15,126.19,OPEC Production Decision,2014-11-27,26,OPEC,9
+cp_1142,2014-12-24,99.94,52.83,-47.14,126.33,OPEC Production Decision,2014-11-27,27,OPEC,9
+cp_1143,2014-12-26,99.73,52.74,-47.12,126.4,OPEC Production Decision,2014-11-27,29,OPEC,9
+cp_1263,2018-04-19,58.27,70.4,20.8,19.98,US Withdraws from Iran Deal,2018-05-08,19,Political,7
+cp_1264,2018-04-24,58.57,70.36,20.13,21.54,US Withdraws from Iran Deal,2018-05-08,14,Political,7
+cp_1265,2018-05-09,59.61,70.25,17.84,21.85,US Withdraws from Iran Deal,2018-05-08,1,Political,7
+cp_1266,2018-05-10,59.73,70.22,17.57,20.09,US Withdraws from Iran Deal,2018-05-08,2,Political,7
+cp_1267,2018-05-11,59.83,70.2,17.32,21.78,US Withdraws from Iran Deal,2018-05-08,3,Political,7
+cp_1268,2018-05-14,59.93,70.17,17.08,21.84,US Withdraws from Iran Deal,2018-05-08,6,Political,7
+cp_1269,2018-05-15,60.04,70.14,16.83,21.85,US Withdraws from Iran Deal,2018-05-08,7,Political,7
+cp_1270,2018-05-16,60.15,70.12,16.58,21.74,US Withdraws from Iran Deal,2018-05-08,8,Political,7
+cp_1271,2018-05-17,60.25,70.09,16.34,21.62,US Withdraws from Iran Deal,2018-05-08,9,Political,7
+cp_1272,2018-05-22,60.55,70.03,15.65,20.42,US Withdraws from Iran Deal,2018-05-08,14,Political,7
+cp_1280,2018-10-08,70.13,65.08,-7.2,47.15,US Iran Sanctions,2018-11-05,28,Economic,7
+cp_1281,2018-10-09,70.24,64.98,-7.49,47.5,US Iran Sanctions,2018-11-05,27,Economic,7
+cp_1282,2018-10-10,70.35,64.88,-7.79,47.65,US Iran Sanctions,2018-11-05,26,Economic,7
+cp_1283,2018-11-23,71.93,63.47,-11.77,34.22,US Iran Sanctions,2018-11-05,18,Economic,7
+cp_1284,2018-11-26,71.91,63.49,-11.72,30.58,US Iran Sanctions,2018-11-05,21,Economic,7
+cp_1285,2018-11-27,71.9,63.51,-11.67,29.54,US Iran Sanctions,2018-11-05,22,Economic,7
+cp_1286,2018-11-28,71.88,63.53,-11.61,29.14,US Iran Sanctions,2018-11-05,23,Economic,7
+cp_1287,2018-11-29,71.86,63.56,-11.55,28.51,US Iran Sanctions,2018-11-05,24,Economic,7
+cp_1288,2018-11-30,71.83,63.59,-11.48,28.68,US Iran Sanctions,2018-11-05,25,Economic,7
+cp_1304,2020-02-05,64.71,36.95,-42.9,522.22,OPEC+ Production Cut Failure,2020-03-06,30,OPEC,8
+cp_1305,2020-02-06,64.67,36.59,-43.42,526.31,OPEC+ Production Cut Failure,2020-03-06,29,OPEC,8
+cp_1306,2020-02-07,64.63,36.23,-43.94,534.42,OPEC+ Production Cut Failure,2020-03-06,28,OPEC,8
+cp_1307,2020-02-10,64.58,35.88,-44.44,540.99,OPEC+ Production Cut Failure,2020-03-06,25,OPEC,8
+cp_1308,2020-02-11,64.53,35.5,-44.98,545.85,OPEC+ Production Cut Failure,2020-03-06,24,OPEC,8
+cp_1309,2020-02-27,64.15,28.38,-55.75,624.17,OPEC+ Production Cut Failure,2020-03-06,8,OPEC,8
+cp_1310,2020-02-28,64.09,27.73,-56.74,626.58,OPEC+ Production Cut Failure,2020-03-06,7,OPEC,8
+cp_1311,2020-03-02,64.04,27.0,-57.84,634.47,OPEC+ Production Cut Failure,2020-03-06,4,OPEC,8
+cp_1312,2020-03-03,63.99,26.23,-59.0,643.06,OPEC+ Production Cut Failure,2020-03-06,3,OPEC,8
+cp_1313,2020-03-04,63.93,25.43,-60.22,654.18,OPEC+ Production Cut Failure,2020-03-06,2,OPEC,8
+cp_1314,2020-03-05,63.88,24.6,-61.49,665.7,OPEC+ Production Cut Failure,2020-03-06,1,OPEC,8
+cp_1315,2020-03-06,63.82,23.9,-62.55,676.55,OPEC+ Production Cut Failure,2020-03-06,0,OPEC,8
+cp_1316,2020-03-09,63.74,23.5,-63.12,628.5,Saudi-Russia Price War,2020-03-09,0,Economic,9
+cp_1317,2020-03-10,63.61,23.03,-63.79,504.1,Saudi-Russia Price War,2020-03-09,1,Economic,9
+cp_1318,2020-03-11,63.48,22.61,-64.38,513.74,Saudi-Russia Price War,2020-03-09,2,Economic,9
+cp_1319,2020-03-12,63.35,22.29,-64.82,519.01,Saudi-Russia Price War,2020-03-09,3,Economic,9
+cp_1320,2020-03-13,63.21,21.86,-65.42,512.22,Saudi-Russia Price War,2020-03-09,4,Economic,9
+cp_1321,2020-03-16,63.07,21.6,-65.75,514.46,Saudi-Russia Price War,2020-03-09,7,Economic,9
+cp_1322,2020-03-17,62.92,21.32,-66.11,492.6,COVID-19 Lockdowns Begin,2020-03-23,6,Economic,9
+cp_1323,2020-03-18,62.76,21.07,-66.43,506.5,COVID-19 Lockdowns Begin,2020-03-23,5,Economic,9
+cp_1324,2020-03-19,62.6,20.96,-66.52,515.94,COVID-19 Lockdowns Begin,2020-03-23,4,Economic,9
+cp_1325,2020-03-20,62.43,20.74,-66.78,500.65,COVID-19 Lockdowns Begin,2020-03-23,3,Economic,9
+cp_1326,2020-03-23,62.25,20.51,-67.05,507.37,COVID-19 Lockdowns Begin,2020-03-23,0,Economic,9
+cp_1327,2020-03-24,62.08,20.33,-67.25,525.07,COVID-19 Lockdowns Begin,2020-03-23,1,Economic,9
+cp_1328,2020-03-25,61.9,20.02,-67.66,533.23,COVID-19 Lockdowns Begin,2020-03-23,2,Economic,9
+cp_1329,2020-03-26,61.72,19.8,-67.92,546.22,COVID-19 Lockdowns Begin,2020-03-23,3,Economic,9
+cp_1330,2020-03-27,61.54,19.63,-68.11,561.19,COVID-19 Lockdowns Begin,2020-03-23,4,Economic,9
+cp_1331,2020-03-30,61.34,19.67,-67.94,578.65,COVID-19 Lockdowns Begin,2020-03-23,7,Economic,9
+cp_1332,2020-03-31,61.14,19.7,-67.77,575.92,COVID-19 Lockdowns Begin,2020-03-23,8,Economic,9
+cp_1333,2020-04-01,60.93,20.1,-67.02,584.79,COVID-19 Lockdowns Begin,2020-03-23,9,Economic,9
+cp_1334,2020-04-02,60.71,20.08,-66.92,486.6,COVID-19 Lockdowns Begin,2020-03-23,10,Economic,9
+cp_1335,2020-04-03,60.5,19.66,-67.51,409.62,OPEC+ Historic Production Cut,2020-04-12,9,OPEC,9
+cp_1336,2020-04-06,60.32,19.33,-67.95,420.34,OPEC+ Historic Production Cut,2020-04-12,6,OPEC,9
+cp_1337,2020-04-07,60.13,18.99,-68.42,448.9,OPEC+ Historic Production Cut,2020-04-12,5,OPEC,9
+cp_1338,2020-04-08,59.93,18.1,-69.8,443.12,OPEC+ Historic Production Cut,2020-04-12,4,OPEC,9
+cp_1339,2020-04-09,59.75,17.74,-70.3,478.68,OPEC+ Historic Production Cut,2020-04-12,3,OPEC,9
+cp_1340,2020-04-14,59.55,16.94,-71.55,472.8,OPEC+ Historic Production Cut,2020-04-12,2,OPEC,9
+cp_1341,2020-04-15,59.34,16.23,-72.65,550.71,OPEC+ Historic Production Cut,2020-04-12,3,OPEC,9
+cp_1342,2020-04-16,59.13,15.41,-73.94,656.72,OPEC+ Historic Production Cut,2020-04-12,4,OPEC,9
+cp_1343,2020-04-17,58.91,13.24,-77.52,658.9,OPEC+ Historic Production Cut,2020-04-12,5,OPEC,9
+cp_1344,2020-04-20,58.7,9.12,-84.46,,OPEC+ Historic Production Cut,2020-04-12,8,OPEC,9
